@@ -1,0 +1,87 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "TestFramework"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftOnoneSupport",
+      "printedName": "SwiftOnoneSupport",
+      "declKind": "Import",
+      "moduleName": "TestFramework"
+    },
+    {
+      "kind": "Import",
+      "name": "TestFramework",
+      "printedName": "TestFramework",
+      "declKind": "Import",
+      "moduleName": "TestFramework",
+      "declAttributes": [
+        "Exported"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "_Concurrency",
+      "printedName": "_Concurrency",
+      "declKind": "Import",
+      "moduleName": "TestFramework"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "TestFramework",
+      "printedName": "TestFramework",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "helloWorld",
+          "printedName": "helloWorld()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:13TestFrameworkAAV10helloWorldyyFZ",
+          "mangledName": "$s13TestFrameworkAAV10helloWorldyyFZ",
+          "moduleName": "TestFramework",
+          "static": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "TestFramework",
+              "printedName": "TestFramework.TestFramework",
+              "usr": "s:13TestFrameworkAAV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:13TestFrameworkAAVABycfc",
+          "mangledName": "$s13TestFrameworkAAVABycfc",
+          "moduleName": "TestFramework",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:13TestFrameworkAAV",
+      "mangledName": "$s13TestFrameworkAAV",
+      "moduleName": "TestFramework"
+    }
+  ],
+  "json_format_version": 6
+}

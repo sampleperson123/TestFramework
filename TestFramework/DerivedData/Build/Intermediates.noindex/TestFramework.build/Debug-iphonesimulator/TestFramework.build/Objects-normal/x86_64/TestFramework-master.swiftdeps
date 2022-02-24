@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "d3c81c9ecdfbc606033ab89e122a5375fa8ab0b2b576c2d62b3f20b53e1e346c"
+build_start_time: [1645684889, 225481986]
+build_end_time: [1645684892, 338521003]
+inputs:
+  "/Users/kapileshrajput/Desktop/Studies/Framework/TestFramework/TestFramework/TestFramework.swift": [1645684888, 869943141]

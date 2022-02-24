@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/kapileshrajput/Desktop/Studies/Framework/remote/TestFramework/TestFramework/DerivedData/TestFramework/Index/Build/Products/Debug-iphonesimulator/TestFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/kapileshrajput/Desktop/Studies/Framework/remote/TestFramework/TestFramework/DerivedData/TestFramework/Index/Build/Intermediates.noindex/TestFramework.build/Debug-iphonesimulator/TestFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}
